@@ -548,7 +548,7 @@
                 </string>
                 <string name="result_geo" >Geografische coördinaten gevonden
                 </string>
-                <string name="contents_text" >Platte tekst
+                <string name="contents_text" >QR code
                 </string>
                 <string name="msg_install_google_shopper" >Google Shopper combineert het scannen van barcodes met online en lokale prijzen, recensies en meer zonder de browser te openen. Wil je dit proberen?
                 </string>
@@ -714,7 +714,7 @@
                 </string>
                 <string name="msg_sure" >Weet je het zeker?
                 </string>
-                <string name="result_text" >Platte tekst gevonden
+                <string name="result_text" >QR code gevonden
                 </string>
                 <string name="preferences_disable_continuous_focus_summary" >Gebruik alleen standaard focus modus
                 </string>
@@ -742,7 +742,7 @@
                 </string>
                 <string name="preferences_custom_product_search_title" >Aangepaste zoek-URL
                 </string>
-                <string name="msg_default_status" >Plaats een barcode binnen de rechthoek om deze te scannen.
+                <string name="msg_default_status" >Plaats de QR code in de rechthoek om het te scannen.
                 </string>
                 <string name="preferences_bulk_mode_summary" >Continu barcodes scannen en opslaan
                 </string>
